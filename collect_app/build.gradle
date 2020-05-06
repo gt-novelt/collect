@@ -86,9 +86,9 @@ android {
             gts {
                 dimension "dimension"
                 applicationId "ch.novelt.gts.odk.collect.android"
-                versionCode 1
-                versionName "1.0.0"
-                archivesBaseName = "collect-v$versionCode$versionName"
+                versionCode 2
+                versionName "1.1.0"
+                archivesBaseName = "collect-$versionCode-v$versionName"
             }
         }
     }
